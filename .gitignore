@@ -1,0 +1,6 @@
+__pycache__
+.venv
+module/VOICEVOX
+*.wav
+*.tab
+dialogue.json
